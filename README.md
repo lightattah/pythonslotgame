@@ -1,4 +1,4 @@
-# pythonslotgame
+# Python slot game
 This is a simple Python command-line slot-machine game.
 Slot Machine Python Game
 This Python script simulates a slot machine game where players can spin the reels and win virtual currency based on the symbols aligned on the paylines.
